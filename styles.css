@@ -1,0 +1,30 @@
+h1 {
+  color: #165583;
+  font-family: verdana;
+  font-size: 54px;
+  text-align: center;
+}
+
+p { 
+  background: #e3eaf1;
+  font-family: verdana;
+  line-height: 1.00;
+  margin-bottom: 0.5cm;
+}
+
+figure {
+  border: 1px solid black;
+  padding: 40px 
+}
+
+figure img {
+  width: 30%;
+  height: auto;
+}
+
+p img {
+  float: right;
+  max-width: 20%;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
