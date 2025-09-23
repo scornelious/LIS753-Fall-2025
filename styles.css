@@ -28,3 +28,16 @@ p img {
   margin-left: 10px;
   margin-bottom: 20px;
 }
+
+a {
+  font-weight: bold;
+  color: green;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+ul li a:hover {
+text-decoration: underline;
+}
