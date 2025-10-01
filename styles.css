@@ -29,6 +29,15 @@ p img {
   margin-bottom: 20px;
 }
 
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  padding-left: 0;
+  border: 1px solid mediumaquamarine;
+}
+
 a {
   font-weight: bold;
   color: green;
