@@ -11,7 +11,7 @@ p {
   line-height: 1.00;
   margin-bottom: 0.5cm;
 }
-h1#site-title  {
+<h1 id= "site-title">  {
   font-size: 72px;
   letter-spacing: -3px;
   margin-top: 0;
@@ -19,7 +19,7 @@ h1#site-title  {
   text-align: center;
 }
 
-h1#article-title {
+<h1 id="article-title"> {
   font-size: 48px;
   letter-spacing: -3px;
   margin-top: 0;
