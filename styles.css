@@ -1,5 +1,5 @@
 h1 {
-  color: #165583;
+  color: #080808;
   font-family: verdana;
   font-size: 54px;
   text-align: center;
@@ -10,6 +10,24 @@ p {
   font-family: verdana;
   line-height: 1.00;
   margin-bottom: 0.5cm;
+}
+h1#site-title  {
+  font-size: 72px;
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: o;
+  text-align: center;
+}
+
+h1#article-title {
+  font-size: 48px;
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: o;
+  text-align: left;
+}
+
+
 }
 
 figure {
@@ -35,12 +53,12 @@ nav ul {
   gap: 30px;
   list-style: none;
   padding-left: 0;
-  border: 1px solid mediumaquamarine;
+  border: 1px solid rgb(94, 97, 96);
 }
 
 a {
   font-weight: bold;
-  color: green;
+  color: rgb(23, 24, 23);
 }
 
 ul li a {
