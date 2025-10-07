@@ -28,8 +28,6 @@ h1#article-title {
 }
 
 
-}
-
 figure {
   border: 1px solid black;
   padding: 40px 
@@ -38,6 +36,19 @@ figure {
 figure img {
   width: 30%;
   height: auto;
+}
+
+figure.main-image  {
+background: palevioletred;
+border-color: mediumvioletred;
+color: white;
+}
+
+figure.section-image  {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 32 px;
+  max-width: 320px;
 }
 
 p img {
