@@ -1,19 +1,19 @@
 h1 {
-  color: #080808;
+  color: #e00505;
   font-family: verdana;
   font-size: 54px;
   text-align: center;
 }
 
 p { 
-  background: #e3eaf1;
-  font-family: verdana;
-  line-height: 1.00;
-  margin-bottom: 0.5cm;
+  background: #1c5894;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 2.00;
+  margin-bottom: 1 cm;
 }
 <h1 id= "site-title">  {
-  font-size: 72px;
-  letter-spacing: -3px;
+  font-size: 84px;
+  letter-spacing: -4px;
   margin-top: 0;
   margin-bottom: o;
   text-align: center;
@@ -39,8 +39,8 @@ figure img {
 }
 
 figure.main-image  {
-background: palevioletred;
-border-color: mediumvioletred;
+background: rgb(82, 11, 35);
+border-color: rgb(66, 3, 43);
 color: white;
 }
 
