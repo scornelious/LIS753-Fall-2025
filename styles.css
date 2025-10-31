@@ -12,7 +12,7 @@ p {
   margin-bottom: 1 cm;
 }
 <h1 id= "site-title">  {
-  font-size: 84px;
+  font-size: 100px;
   letter-spacing: -4px;
   margin-top: 0;
   margin-bottom: o;
@@ -20,7 +20,7 @@ p {
 }
 
 <h1 id="article-title"> {
-  font-size: 48px;
+  font-size: 32px;
   letter-spacing: -3px;
   margin-top: 0;
   margin-bottom: o;
@@ -34,7 +34,7 @@ figure {
 }
 
 figure img {
-  width: 30%;
+  width: 50%;
   height: auto;
 }
 
