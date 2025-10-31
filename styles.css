@@ -31,22 +31,26 @@ p {
 figure {
   border: 1px solid black;
   padding: 40px 
+  text-align: center;
 }
 
 figure img {
   width: 50%;
   height: auto;
+  text-align: center;
 }
 
 figure.main-image  {
 background: rgb(197, 160, 172);
 border-color: rgb(114, 106, 111);
 color: rgb(19, 18, 18);
+text-align: center;
 }
 
 figure.section-image  {
   margin-bottom: 32 px;
   max-width: 320px;
+  text-align: center;
 }
 
 <figure class="section-image.odd"> {
